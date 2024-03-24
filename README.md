@@ -1,10 +1,12 @@
 # Hindi Machine Learning Exploration
 
-Welcome to the Hindi Machine Learning Exploration repository! This repository contains a collection of tools and techniques for machine learning tasks specifically tailored for the Hindi language. Here's an overview of the work done in this repository
+Welcome to the Hindi Machine Learning Exploration repository ! This repository contains a collection of tools and techniques for machine learning tasks specifically tailored for the Hindi language. Here's an overview of the work done in this repository
 
 ## Preprocessing
-- Data Cleaning Removing links, emojis, and other non-textual elements to prepare the data for further processing.
-- Stemming Employing stemming techniques to normalize Hindi text data, improving downstream analysis.
+- **Data Cleaning** : Removing links, emojis, and other non-textual elements to prepare the data for further processing.
+- **Stopwords Removal** : Manually creating a stopwords list since there is no available Hindi stopwords library, filtering out common words that do not contribute to the meaning of the text.
+- **Stemming**: Manually implementing stemming techniques as there is no inbuilt library for Hindi stemming, normalizing Hindi text data by reducing inflected words to their root forms. This includes manually created prefixes and suffixes to capture variations in word forms.
+
 
 ## Classification
 ### Implemented Algorithms
@@ -35,4 +37,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 Special thanks to all contributors and open-source projects that have made this work possible.
 
-Happy exploring with Hindi machine learning!
+Happy exploring with Hindi machine learning !
