@@ -32,7 +32,15 @@ Welcome to the Hindi Machine Learning Exploration repository ! This repository c
 Contributions to this repository are welcome! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+
+This theoretical work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+### Overview
+
+The Creative Commons Attribution 4.0 International License allows others to share and adapt the work for any purpose, even commercially, provided that proper credit is given to the original author.
+
+For more details, please see the [full text of the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
+
 
 ## Acknowledgements
 Special thanks to all contributors and open-source projects that have made this work possible.
